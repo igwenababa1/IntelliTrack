@@ -1,0 +1,5 @@
+{
+  "name": "IntelliTrack",
+  "description": "An intelligent courier shipping application that provides beautiful, AI-powered summaries for your UPS and USPS package tracking.",
+  "requestFramePermissions": []
+}
